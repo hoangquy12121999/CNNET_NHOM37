@@ -1,0 +1,8 @@
+C:\Users\HOANGQUY\Desktop\CNNET\CNNET_NHOM37\Nhom37\Nhom37\obj\Debug\netcoreapp3.0\Nhom37.csprojAssemblyReference.cache
+C:\Users\HOANGQUY\Desktop\CNNET\CNNET_NHOM37\Nhom37\Nhom37\obj\Debug\netcoreapp3.0\Nhom37.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HOANGQUY\Desktop\CNNET\CNNET_NHOM37\Nhom37\Nhom37\obj\Debug\netcoreapp3.0\Nhom37.AssemblyInfoInputs.cache
+C:\Users\HOANGQUY\Desktop\CNNET\CNNET_NHOM37\Nhom37\Nhom37\obj\Debug\netcoreapp3.0\Nhom37.AssemblyInfo.cs
+C:\Users\HOANGQUY\Desktop\CNNET\CNNET_NHOM37\Nhom37\Nhom37\obj\Debug\netcoreapp3.0\Nhom37.TagHelpers.input.cache
+C:\Users\HOANGQUY\Desktop\CNNET\CNNET_NHOM37\Nhom37\Nhom37\obj\Debug\netcoreapp3.0\Nhom37.TagHelpers.output.cache
+C:\Users\HOANGQUY\Desktop\CNNET\CNNET_NHOM37\Nhom37\Nhom37\obj\Debug\netcoreapp3.0\Nhom37.dll
+C:\Users\HOANGQUY\Desktop\CNNET\CNNET_NHOM37\Nhom37\Nhom37\obj\Debug\netcoreapp3.0\Nhom37.pdb
